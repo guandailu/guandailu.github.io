@@ -34,7 +34,7 @@ The News & Events is located at `pages/news.md`
 
 ## People
 
-To add people, you can just add a `md` file in `_people` named by `lastname_firstname.md`. The `md` file should follow the format of `_people/shirley_liu.md`. To delete a people, you can delete his/her `md` file in `_people` and add his/her name in `pages/people.html` as an alumni. 
+TBD
 
 ## Publications
 
