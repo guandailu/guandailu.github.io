@@ -21,8 +21,8 @@ description: Dailu Guan
 # List of links in the navigation bar
 navbar-links:
   Home: "/"
-  Publications: "publication"
   Research: "research"
+  Publications: "publication"
   Teaching: "teaching"
   Careers: "careers"
   Contact: "contact"
