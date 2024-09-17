@@ -5,6 +5,7 @@ permalink: /research
 ---
 
 Chicken Genotype-Tissue Expression (ChickenGTEx)
+
 The ChickenGTEx project presents the pilot reference of regulatory variants in 28 chicken tissue transcriptomes, including millions of regulatory effects on primary expression (including protein-coding genes, lncRNA and exon) and post-transcriptional modifications (alternative splicing and 3’ untranslated region alternative polyadenylation) through integrating 7,015 RNA-Seq and 2,869 whole-genome sequence data. We explored the tissue-sharing and context-specificity of these regulatory variants, their underlying molecular mechanisms of action, and their utility in interpreting adaptation and genome-wide associations of 108 chicken complex traits. Finally, we illustrated shared and lineage-specific features of gene regulation between chickens and mammals, and demonstrated how the ChickenGTEx resource can further assist with translating genetic findings across species.
 
 Functional Annotation of Bovine Genome (BovineFAANG)
